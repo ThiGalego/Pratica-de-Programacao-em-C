@@ -4,8 +4,6 @@
 
 Este repositório contém a resolução de uma lista extensa de exercícios em linguagem C, organizada por tópicos clássicos de programação. Cada grupo foca em um conjunto de conceitos fundamentais para o domínio da linguagem.
 
-> 🔔 **Obs:** Exercícios do **Grupo 4 (Ponteiros)** não estão documentados neste `README`.
-
 ---
 
 ## 📘 Grupo 1 - Sequências Simples
